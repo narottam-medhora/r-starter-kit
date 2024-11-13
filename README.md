@@ -1,6 +1,6 @@
 Structure
 
-.
+```
 ├── .Rprofile
 ├── .gitignore
 ├── README.md
@@ -10,6 +10,7 @@ Structure
 ├── publish
 ├── scratch
 ├── viz
+```
 
 .Rprofile
 
